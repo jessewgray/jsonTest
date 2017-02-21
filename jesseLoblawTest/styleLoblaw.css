@@ -1,0 +1,63 @@
+
+.navWrap{
+	text-align: center;
+	margin-bottom:40px;
+}
+button{
+	background:none;
+	border:none;
+	color: #828282;
+	outline:none;
+}
+button:focus{
+	border:solid 1px lightgrey;
+	box-shadow: none;
+
+}
+.colorOrange{
+	color:#fa4616;
+}
+.badgeName{
+	background:#fa4616;
+	color: white
+}
+
+#itemWrap{
+	border-top:solid 1px lightgrey;
+	width: 80%;
+	margin: 0 auto;
+	color:#828282;
+
+}
+
+.eachItem{
+	text-align: center;
+	margin: 10px 0;
+}
+.eachItem img{
+	max-width:70%;
+	margin-bottom:10px;
+	
+}
+.row{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+	width: 100%;
+}
+.pName{
+	
+}
+.priceTag{
+	border-bottom:solid 1px lightgrey;
+	padding-bottom: 10px;
+}
+.dollarSign{
+	font-size: 12px;
+	vertical-align: top;
+}
+.productColor{
+	
+}
+
+
+
